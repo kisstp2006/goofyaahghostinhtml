@@ -6,14 +6,14 @@
     align-items: center;
     text-align: center;
     width: 170px;
+    margin: 25% auto;
     margin-left: 35%;
-    margin-top: 35%;
+    
     
 }
 #fej{
     background-color: azure;
-    border-top-left-radius: 500px;
-    border-top-right-radius: 500px;
+    border-radius: 1500px 1500px 0 0;
     height: 110px;
     border-color: rgb(112, 112, 112);
     border-style: solid;
