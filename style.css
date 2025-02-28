@@ -1,0 +1,109 @@
+*{
+    background-color: wheat;
+}
+.container{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    width: 170px;
+    margin-left: 35%;
+    margin-top: 35%;
+    
+}
+#fej{
+    background-color: azure;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    height: 110px;
+    border-color: rgb(112, 112, 112);
+    border-style: solid;
+    border-bottom: none;
+}
+#arc{
+    
+}
+#alsoresz{
+    background-color: azure;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    height: 70px;
+    border-color: rgb(112, 112, 112);
+    border-style: solid;
+    border-top: none;
+    border-bottom: none;
+}
+#szaj{
+    background-color: azure;
+    position: absolute;
+    width: 10px;
+    height: 2px;
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 500px;
+    border-color: rgb(0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    margin-top: 90px ;
+    border-style: solid;
+    margin-left: 72px;
+}
+#arnyek{
+    background-color: rgba(0, 0, 0, 0.253);
+    margin-top: 55px;
+    margin-left: 28px;
+    width: 105px;
+    height: 30px;
+    border-radius: 1500px;
+
+}
+#szembal{
+    position: absolute;
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    margin-top: 50px ;
+    margin-left: 110px;
+}
+#szemjobb{
+    position: absolute;
+    background-color: black;
+    margin-top: 50px ;
+    margin-left: 30px;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+.also{
+    background-color: azure;
+    border-color: rgb(112, 112, 112);
+    border-style: solid;
+}
+#also1{
+    height: 25px;
+    width: 45px;
+    border-top: none;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 90px;
+    position: absolute;
+
+}
+
+#also2{
+    height: 25px;
+    width: 69px;
+    border-top: none;
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    margin-left: 47px;
+    position: absolute;
+}
+#also3{
+    height: 25px;
+    width: 45px;
+    border-top: none;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 90px;
+    position: absolute;
+    margin-left: 119px;
+
+}
